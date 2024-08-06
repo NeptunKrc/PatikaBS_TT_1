@@ -1,0 +1,66 @@
+.nav-bg-1{
+    background-color:slategrey ;
+}
+.nav-label{
+    color: red;
+    font-size: 10px;
+}
+.h1-first{
+    color: red;
+    font-size: 75px;
+}
+.f-page-list{
+    font-size: 25px;
+}
+.f-page-header{
+    color: orange;
+}
+.navbar-brand {
+    font-size: 30px; 
+}
+.big-item .nav-link {
+    font-size: 24px; 
+}
+.small-item .nav-link {
+    font-size: 16px; 
+}
+.site-background{
+    background-color: #E9ECEF;
+}
+.full-height {
+height: 100vh; 
+}
+.products-header{
+    font-size: 100px;
+    color: saddlebrown;
+}
+.card {
+    margin-bottom: 10px; 
+    height: 100%; 
+}
+.card-img-top {
+    height: 400px;
+    object-fit: cover; 
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.price-badge {
+    background-color: #007bff;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 20px;
+    font-size: 1.2em;
+    position: relative;
+    margin-top: 10px;
+}
+.about-us-header{
+    font-size: 70px;
+    color: saddlebrown;
+}
+.about-us-t-header{
+    font-size: 45px;
+    color: darkorange;
+}
